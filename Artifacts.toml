@@ -1,0 +1,97 @@
+[[CovidSim]]
+arch = "i686"
+git-tree-sha1 = "dbd9f0ff03b023c2197fe672d8913b5dbb3e668c"
+libc = "musl"
+os = "linux"
+
+    [[CovidSim.download]]
+    sha256 = "5c1d03d0a5e2b5c7b28a24846ef4ed736cfee8211800581e8716d288e0e73dba"
+    url = "https://github.com/JuliaBinaryWrappers/CovidSim_jll.jl/releases/download/CovidSim-v0.8.0+0/CovidSim.v0.8.0.i686-linux-musl.tar.gz"
+[[CovidSim]]
+arch = "aarch64"
+git-tree-sha1 = "4836f439a8b5bea6d352aadcbe6f1bcde71dcdf6"
+libc = "musl"
+os = "linux"
+
+    [[CovidSim.download]]
+    sha256 = "b09d31c0008066bb8c29ed7b4d9e70fe3e2b855d2bbe5fe8adb69090bcf1f745"
+    url = "https://github.com/JuliaBinaryWrappers/CovidSim_jll.jl/releases/download/CovidSim-v0.8.0+0/CovidSim.v0.8.0.aarch64-linux-musl.tar.gz"
+[[CovidSim]]
+arch = "armv7l"
+git-tree-sha1 = "89a587fb5b8763f13e5e32d5b5329373568972f0"
+libc = "glibc"
+os = "linux"
+
+    [[CovidSim.download]]
+    sha256 = "6221397b25b561b9cad58268ba75bf6befd1ef45b2a3c21268ba77531c7e439a"
+    url = "https://github.com/JuliaBinaryWrappers/CovidSim_jll.jl/releases/download/CovidSim-v0.8.0+0/CovidSim.v0.8.0.armv7l-linux-gnueabihf.tar.gz"
+[[CovidSim]]
+arch = "armv7l"
+git-tree-sha1 = "b135eafd48b388f523ccb31e7e300edef3af3a36"
+libc = "musl"
+os = "linux"
+
+    [[CovidSim.download]]
+    sha256 = "abecd86d1216e05d232b8344805ef2f39fb48712fa94772951d78a7c87bbfb75"
+    url = "https://github.com/JuliaBinaryWrappers/CovidSim_jll.jl/releases/download/CovidSim-v0.8.0+0/CovidSim.v0.8.0.armv7l-linux-musleabihf.tar.gz"
+[[CovidSim]]
+arch = "i686"
+git-tree-sha1 = "88f4f68bce3728d17969f2dc0c8377d7a2fe3e21"
+libc = "glibc"
+os = "linux"
+
+    [[CovidSim.download]]
+    sha256 = "025d6a746a0635377cebaa53ebeb0dcbd6c53ef376003f901c3c9a47951d6e41"
+    url = "https://github.com/JuliaBinaryWrappers/CovidSim_jll.jl/releases/download/CovidSim-v0.8.0+0/CovidSim.v0.8.0.i686-linux-gnu.tar.gz"
+[[CovidSim]]
+arch = "x86_64"
+git-tree-sha1 = "9e6de155d3780371b5ad46f4a6d53923df00fa94"
+libc = "glibc"
+os = "linux"
+
+    [[CovidSim.download]]
+    sha256 = "ed4f4043a4738a2bafae9b5a438a75044b4e7773327db9aa671212756f70a443"
+    url = "https://github.com/JuliaBinaryWrappers/CovidSim_jll.jl/releases/download/CovidSim-v0.8.0+0/CovidSim.v0.8.0.x86_64-linux-gnu.tar.gz"
+[[CovidSim]]
+arch = "powerpc64le"
+git-tree-sha1 = "6a176bd09de2b819be41df63b05fdc9853350497"
+libc = "glibc"
+os = "linux"
+
+    [[CovidSim.download]]
+    sha256 = "45f852f67492491e220125f2d522aa7452834c0c3b1e69c2bbc45009545753cd"
+    url = "https://github.com/JuliaBinaryWrappers/CovidSim_jll.jl/releases/download/CovidSim-v0.8.0+0/CovidSim.v0.8.0.powerpc64le-linux-gnu.tar.gz"
+[[CovidSim]]
+arch = "x86_64"
+git-tree-sha1 = "6b9551eaf8a056e3e3ed63c140d1816375cbf87d"
+os = "macos"
+
+    [[CovidSim.download]]
+    sha256 = "54807d755e31de9b78c8a08d21b03d006e437e5656b5a4e2e74972eaee73ff80"
+    url = "https://github.com/JuliaBinaryWrappers/CovidSim_jll.jl/releases/download/CovidSim-v0.8.0+0/CovidSim.v0.8.0.x86_64-apple-darwin14.tar.gz"
+[[CovidSim]]
+arch = "aarch64"
+git-tree-sha1 = "82a84197fb5dd8dccb89e338398bf80182d26e71"
+libc = "glibc"
+os = "linux"
+
+    [[CovidSim.download]]
+    sha256 = "9e821cff6d8cdf3f66ea33de4b33baecbaacb42071834fe4055b300ceaf2e0b9"
+    url = "https://github.com/JuliaBinaryWrappers/CovidSim_jll.jl/releases/download/CovidSim-v0.8.0+0/CovidSim.v0.8.0.aarch64-linux-gnu.tar.gz"
+[[CovidSim]]
+arch = "x86_64"
+git-tree-sha1 = "03fea008879f05dd8753f03692ee0bcdd934a884"
+os = "freebsd"
+
+    [[CovidSim.download]]
+    sha256 = "cbcfaf7742a7c58814ba70ec0d80877d7adc1f9b1be6825b05a0063fb69229fc"
+    url = "https://github.com/JuliaBinaryWrappers/CovidSim_jll.jl/releases/download/CovidSim-v0.8.0+0/CovidSim.v0.8.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[CovidSim]]
+arch = "x86_64"
+git-tree-sha1 = "1f581afd0f2e535a1757b905597c0bf9928692af"
+libc = "musl"
+os = "linux"
+
+    [[CovidSim.download]]
+    sha256 = "d1bc2017a8f20cfa8f6f1967695f0f9d2954683f1c9455d09c60393c6bca4757"
+    url = "https://github.com/JuliaBinaryWrappers/CovidSim_jll.jl/releases/download/CovidSim-v0.8.0+0/CovidSim.v0.8.0.x86_64-linux-musl.tar.gz"
